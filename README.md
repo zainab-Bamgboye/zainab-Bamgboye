@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zainab Bamgboye Yetunde 👋
 
-<!--
-**zainab-Bamgboye/zainab-Bamgboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Health Data Analytics
 
-Here are some ideas to get you started:
+I am a Data Analyst with a background in Human Anatomy, focused on using data to uncover insights and support better healthcare and business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Excel
+- SQL
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Healthcare Data Analysis
+
+### 📊 Featured Projects
+
+- Lung Cancer Patient Analysis — SQL
+- Lung Cancer Analysis — Excel
+- Manufacturing Downtime Analysis — Power BI
+
+### 🎓 Background
+
+- BSc Human Anatomy — Al-Hikmah University
+- Data Analysis Training — Malhub
+
+### 📫 Connect With Me
+
+- LinkedIn: zainab Bamgboye 
+- Email: zainabbamgboye001@gmai.com
